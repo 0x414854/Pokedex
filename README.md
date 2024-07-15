@@ -13,6 +13,7 @@ This project is a **web-based Pokedex application** that allows users to search 
 - **Sorting** : Sort Pokémon by alphabetical order, type, weight, and size.
 - **Detailed Information** : View detailed Pokémon information, including height, weight, base experience, stats, abilities, and evolutions.
 - **Background Images** : Different background images based on Pokémon type.
+- **Fetch API** : Making requests to the [PokéAPI](https://pokeapi.co).
 
 ## **Installation Instructions**
 
