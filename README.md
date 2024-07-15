@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/HTML-orange?logo=html&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-blue?logo=css&logoColor=white) ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/Canva-%236a3be4?logo=canva&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML-%23e34c26?logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-%23264de4?logo=css3&logoColor=white) ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/Canva-%236a3be4?logo=canva&logoColor=white)
 
 <img width="1259" alt="Capture d’écran 2024-07-15 à 13 38 01" src="https://github.com/user-attachments/assets/2f77a66c-0d2c-4794-9c59-cf9f8664e904">
 
